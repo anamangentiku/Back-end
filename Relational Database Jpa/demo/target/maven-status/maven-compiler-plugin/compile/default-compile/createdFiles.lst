@@ -1,0 +1,12 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\User.class
+com\example\demo\controller\MainController.class
+com\example\demo\entity\Student.class
+com\example\demo\repository\CourseRepository.class
+com\example\demo\controller\StudentController.class
+com\example\demo\repository\UserRepository.class
+com\example\demo\repository\StudentRepository.class
+com\example\demo\entity\Course.class
+com\example\demo\entity\Order.class
+com\example\demo\controller\UserController.class
+com\example\demo\repository\OrderRepository.class
